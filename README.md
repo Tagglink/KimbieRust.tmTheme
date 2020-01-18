@@ -1,6 +1,8 @@
 # KimbieRust.tmTheme
 Kimbie Dark Steampunk
 
+(This theme has only gone through minor testing on C++ in Sublime Text 3)
+
 ![alt text](https://puu.sh/F1721/63c25571a5.png)
 
 ## License
