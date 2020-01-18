@@ -1,7 +1,7 @@
 # KimbieRust.tmTheme
 Kimbie Dark Steampunk
 
-![alt text](https://puu.sh/F16ZT/d61de9511d.png)
+![alt text](https://puu.sh/F1721/63c25571a5.png)
 
 ## License
 
